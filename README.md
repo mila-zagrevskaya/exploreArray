@@ -1,5 +1,7 @@
 # exploreArray
 
+https://mila-zagrevskaya.github.io/exploreArray/
+
 Добавьте возможность вставки элемента в любую заданную позицию в массиве
 
 Подсказка:
